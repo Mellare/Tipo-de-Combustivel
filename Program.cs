@@ -20,11 +20,13 @@ if(codigo == 2)
     y = y + 1;
 }
 
-if(codigo == 3){
+if(codigo == 3)
+{
     z = z + 1;
 }
 
-if(codigo == 4){
+if(codigo == 4)
+{
     entraNoLaco = false;
 }
 
